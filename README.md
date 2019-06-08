@@ -5,12 +5,12 @@ Sandbox code:- join pen-turn
 
 #for meaning
 You can search queries like: activist means(it will show you the meaning of the word activist)
-You can search for any word for meanings
+You can search any word for meanings
 
 #for translation
 You can search queries like: business in spanish(it will translate 'business' in spanish)
 
-List of words you can search the meaning and their translations=[activist,business,stock,chance,controversy,demand,demands,interrupts,nepotism,sacrifice,try,vocbulary] 
+List of words you can check their translations=[activist,business,stock,chance,controversy,demand,demands,interrupts,nepotism,sacrifice,try,vocbulary] 
 
 
 Languages in which it will translate the word {
