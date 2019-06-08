@@ -4,7 +4,8 @@ Sandbox code:- join pen-turn
 # dictionary and translation in any language
 
 #for meaning
-You can search queries like: activist meaning,show activist meaning (it will show you the meaning of the word activist)
+You can search queries like: activist means(it will show you the meaning of the word activist)
+You can search for any word for meanings
 
 #for translation
 You can search queries like: business in spanish(it will translate 'business' in spanish)
